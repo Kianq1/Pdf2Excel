@@ -7,7 +7,13 @@ A simple gui python app that converts Pdf texts to .csv or .xlsx
 ✅Converts to both .csv and .xlsx
 ## Getting started!
 For libraries install:
-bash```
+```
 pip install pypdf2
 pip install openpyxl
 ```
+and just run the app:
+```
+python Pdf2Excel.py
+```
+
+I hope you like it!😎
