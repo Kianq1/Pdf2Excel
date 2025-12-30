@@ -1,6 +1,8 @@
 # Pdf2Excel
 A simple gui python app that converts Pdf texts to .csv or .xlsx
-# Features
+
+
+## Features
 ✅Dark Mode GUI(kinda)
 
 ✅Built-in File Selector
@@ -15,6 +17,8 @@ For libraries install:
 pip install pypdf2
 pip install openpyxl
 ```
+
+
 and just run the app:
 ```
 python Pdf2Excel.py
